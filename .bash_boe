@@ -1,0 +1,7 @@
+# Header
+echo "Reading .bash_boe..."
+
+# -- For convenience
+alias ..="cd .."
+alias la="ls -a"
+
